@@ -8,6 +8,7 @@ python valhalla.py
 
 ### Play Online
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bhoiberg/Valhalla/blob/main/valhalla.ipynb)
+
 *Click the badge above to launch the game in Google Colab, then press **Shift + Enter** on the code cell to play.*
 
 Game Commands:
